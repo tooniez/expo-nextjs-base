@@ -1,8 +1,8 @@
 {
   "dependencies": {
     "@expo/metro-runtime": "~3.2.3",
-    "expo": "^54.0.32",
-    "next": "~14.2.26",
+    "expo": "^52.0.11",
+    "next": "~16.2.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-native": "0.74.5",
